@@ -76,8 +76,8 @@ const ConverterForm = () => {
                     />
                 </div>
             </div>
-            <button type="submit" id="btn" className="h-[40px] w-full mt-2 bg-white text-black rounded-md font-semibold">Get exchange rate</button>
-            <p className="flex justify-center items-center h-[40px] w-full mt-2 bg-[#ffffff1a] text-white rounded-md font-medium">
+            <button type="submit" id="btn" className="h-[40px] w-full mt-3 bg-white text-black rounded-md font-semibold">Get exchange rate</button>
+            <p className="flex justify-center items-center h-[40px] w-full mt-3 bg-[#ffffff1a] text-white rounded-md font-medium">
                 {result}
             </p>
         </form>
